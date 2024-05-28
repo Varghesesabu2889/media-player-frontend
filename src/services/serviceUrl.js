@@ -1,0 +1,1 @@
+ export const serviceUrl=`https://media-player-ziyh.onrender.com`
